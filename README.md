@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @V1CT0R-06
 - 👀 I’m interested in Raspberry Pi, Retro gaming, Jailbreaking, Audio
-- 🌱 I’m currently learning Pithon
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
