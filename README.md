@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @V1CT0R-06
-- 👀 I’m interested in Raspberry Pi, Retro gaming, Jailbreaking, Audio
-- 🌱 I’m currently learning Python
+- 👀 Interested in Raspberry Pi, Retro gaming, Jailbreaking, Audio
+- 🌱 Currently learning Python
 - 📫 How to reach me: moraisvictor201106@gmail.com
 
 <!---
