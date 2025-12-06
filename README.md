@@ -1,6 +1,6 @@
 <!-- Animated header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00FF00&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Victor+%F0%9F%91%8B;Computer+%26+Informatics+Engineering+Student;Web+Design+Enthusiast;Linux+%2F+Raspberry+Pi+Tinkerer;Welcome+to+my+GitHub+Profile+%E2%9C%93" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=500&lines=Victor+Morais;Computer+%26+Informatics+Engineering+Student;GNU%2FLinux+Enjoyer;Frontend+%2F+Web+Design+Fan;Welcome+to+my+GitHub+Profile+%E2%9C%93" />
 </p>
 
 ---
@@ -38,3 +38,6 @@ $ sudo apt install creativity
 
 $ echo "Building cool stuff since 2023..."
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF00&height=2" />
+</p>
