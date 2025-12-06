@@ -38,6 +38,7 @@ $ sudo apt install creativity
 
 $ echo "Building cool stuff since 2023..."
 
+##
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF00&height=2" />
 </p>
