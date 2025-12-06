@@ -22,22 +22,22 @@
 
 ---
 
-## 🧮 GitHub Stats (Dark Hacker Mode)
+## GitHub Stats (Dark Hacker Mode)
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=V1CT0R-06&show_icons=true&theme=chartreuse-dark&hide_border=true&title_color=00FF00&icon_color=00FF00" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1CT0R-06&layout=compact&theme=chartreuse-dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-godkingjay.vercel.app/api?username=V1CT0R-06&show_icons=true&theme=chartreuse-dark&hide_border=true&title_color=00FF00&icon_color=00FF00" />
+  <img height="180em" src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=V1CT0R-06&layout=compact&theme=chartreuse-dark&hide_border=true" />
 </p>
 
 ---
 
 ## 🔥 Activity Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=V1CT0R-06&theme=green_nion&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+  <img src="https://streak-stats.demolab.com?user=V1CT0R-06&theme=matrix&hide_border=true&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" />
 </p>
 
 ---
 
-## 💀 Hacker Vibes
+## 
 ```bash
 $ whoami
 > Victor  
