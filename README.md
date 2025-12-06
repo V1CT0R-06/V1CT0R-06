@@ -8,8 +8,7 @@
 ## About Me
 - 🎓 Computer and Informatics Engineering student at **Universidade de Aveiro**
 - 💻 Passionate about **web design** and **frontend development**
-- 🧪 Love building tech projects, homelabs, Raspberry Pi stuff
-- 🎮 Gamer  
+- 🧪 Love building tech projects, homelabs, Raspberry Pi clusters
 - 🕶  GNU/Linux lover  
 - 💬 Discord: **`VITINHO_4K`**
 
@@ -22,10 +21,9 @@
 
 ---
 
-## GitHub Stats (Dark Hacker Mode)
+## GitHub Metrics (Hacker Mode)
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-godkingjay.vercel.app/api?username=V1CT0R-06&show_icons=true&theme=chartreuse-dark&hide_border=true&title_color=00FF00&icon_color=00FF00" />
-  <img height="180em" src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=V1CT0R-06&layout=compact&theme=chartreuse-dark&hide_border=true" />
+  <img src="https://metrics.lecoq.io/V1CT0R-06?template=classic&base.header=0&base.metadata=0&languages=1&isocalendar=1&lines=1&config.timezone=Europe/Lisbon&isocalendar.duration=full-year&languages.limit=10&languages.colors=dark&languages.threshold=0%25&config.animated=true" />
 </p>
 
 ---
@@ -40,7 +38,7 @@
 ## 
 ```bash
 $ whoami
-> Victor  
+> Victor Morais 
 
 $ sudo apt install creativity  
 > creativity already newest version  
