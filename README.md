@@ -28,16 +28,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=V1CT0R-06&theme=tokyonight" />
 </p>
 
-<!-- General Stats -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=V1CT0R-06&theme=tokyonight" />
-</p>
-
-<!-- Languages -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=V1CT0R-06&theme=tokyonight" />
-</p>
-
 ---
 
 ## Terminal
