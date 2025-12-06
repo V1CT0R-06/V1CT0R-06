@@ -23,12 +23,10 @@
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://metrics.lecoq.io/V1CT0R-06?template=classic&base=header,activity,community,repositories&languages=1&languages.limit=10&languages.colors=dark&languages.threshold=0&config.timezone=Europe/Lisbon&output=svg" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=V1CT0R-06&theme=github_dark" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF00&height=2" />
-</p>
+---
 
 ## 
 ```bash
