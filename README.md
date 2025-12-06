@@ -21,16 +21,9 @@
 
 ---
 
-## GitHub Metrics (Hacker Mode)
+## GitHub Stats
 <p align="center">
-  <img src="https://metrics.lecoq.io/V1CT0R-06?template=classic&base.header=0&base.metadata=0&languages=1&isocalendar=1&lines=1&config.timezone=Europe/Lisbon&isocalendar.duration=full-year&languages.limit=10&languages.colors=dark&languages.threshold=0%25&config.animated=true" />
-</p>
-
----
-
-## 🔥 Activity Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=V1CT0R-06&theme=matrix&hide_border=true&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" />
+  <img src="https://github-metrics-api.vercel.app/V1CT0R-06?template=classic&base.header=0&base.metadata=0&config.timezone=Europe/Lisbon&languages=1&languages.limit=8&languages.colors=dark&languages.threshold=0%25&lines=1" />
 </p>
 
 ---
